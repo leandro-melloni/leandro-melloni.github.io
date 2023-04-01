@@ -1,8 +1,11 @@
 site_name: Leandro Melloni Valle
 site_url: https://leandro-melloni.github.io/
+site_author: Leandro Melloni Valle
 
 #repo_url: https://github.com/leandro-melloni/leandro-melloni.gihub.io
 #repo_name: leandro-melloni.github.io
+
+copyright: Copyright &copy; 2023 Leandro Melloni Valle
 
 
 theme:
