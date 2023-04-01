@@ -1,5 +1,8 @@
 site_name: Leandro Melloni Valle
 site_url: https://leandro-melloni.github.io/
+repo_url: https://github.com/leandro-melloni/leandro-melloni.gihub.io
+repo_name: leandro-melloni.github.io
+
 
 theme:
   name: material
@@ -35,10 +38,17 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
+  favicon: assets/logo.png
+  logo: assets/logo.png
 
 extra:
   annotate:
     json: [.s2] 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/leandro-melloni
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/leandro-melloni-valle-78100335/
 
 markdown_extensions:
   - abbr
@@ -55,7 +65,6 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.tabbed:
       alternate_style: true
-  
 
 
 plugins: 
