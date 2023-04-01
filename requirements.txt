@@ -5,4 +5,4 @@ mkdocs-monorepo-plugin
 mkdocs_autolinks_plugin
 mkdocs-awesome-pages-plugin
 mkdocs-codeinclude-plugin
-mkdocs-rss-pugin
+mkdocs-rss-plugin
