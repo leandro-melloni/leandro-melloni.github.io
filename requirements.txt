@@ -7,3 +7,4 @@ mkdocs-awesome-pages-plugin
 mkdocs-codeinclude-plugin
 mkdocs-rss-plugin
 mkdocs-blog-plugin
+mkdocs-glightbox
