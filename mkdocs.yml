@@ -33,6 +33,9 @@ theme:
     - content.code.annotate
     - content.code.copy
 
+extra:
+  annotate:
+    json: [.s2] 
 
 markdown_extensions:
   - abbr
@@ -41,6 +44,8 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -61,14 +66,14 @@ plugins:
   - autolinks
   - rss
   - blog
+  - glightbox
     
 
 nav:
   - Home: index.md
   - Artigos:
     - Artigos: blog/index.md
-  - About: 
-      - about.md
+  - "Quem sou eu": about.md
 
 #extra_css:
 #  - assets/css/extra.css

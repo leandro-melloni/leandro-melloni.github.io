@@ -1,8 +1,3 @@
 # Bem vindo ao site do Leandro Melloni Valle!
 
-## O que você irá encontrar aqui?
-
-* `Quem sou eu?`
-* `Artigos`
-
-Esta página se encontra em construção! Aguarde para novidades!
+Criei este site para que seja possível realizar o compartilhamento de experências profissionais, escrever artigos, auxiliando colegas que precisem de ajuda nas áreas de `Cloud`, `DevOps`, `ferramentas de CI/CD`, etc.
