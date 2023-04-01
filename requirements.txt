@@ -6,3 +6,4 @@ mkdocs_autolinks_plugin
 mkdocs-awesome-pages-plugin
 mkdocs-codeinclude-plugin
 mkdocs-rss-plugin
+mkdocs-blog-plugin
