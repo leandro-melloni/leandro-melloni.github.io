@@ -1,5 +1,13 @@
 # Leandro Melloni Valle
 
+Certificados:
+
+* `AWS`
+
+???- note "Recommended: [configuration validation and auto-complete]"
+
+    teste
+
 # Quem sou eu?
 
 * `mkdocs new [dir-name]` - Create a new project.

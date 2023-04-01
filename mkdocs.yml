@@ -23,20 +23,44 @@ theme:
     - navigation.path
     - navigation.instant
     - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
     - search.suggest
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+
 
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
   - md_in_html
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
       smart_enable: all
+  - pymdownx.tabbed:
+      alternate_style: true
+  
+
 
 plugins: 
   - search:
       lang:
         - pt
         - en
+  - monorepo
+  - codeinclude
+  - awesome-pages
+  - autolinks
+  - rss
+  - blog
     
 
 nav:
@@ -46,3 +70,9 @@ nav:
   - About: 
       - about.md
 
+#extra_css:
+#  - assets/css/extra.css
+
+extra_javascript:
+#  - assets/js/marked.min.js
+  - assets/js/extra.js
