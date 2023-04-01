@@ -1,6 +1,6 @@
 mkdocs
 mkdocs-material
-mkdocs-material-extenssions
+mkdocs-material-extensions
 mkdocs-monorepo-plugin
 mkdocs_autolinks_plugin
 mkdocs-awesome-pages-plugin
