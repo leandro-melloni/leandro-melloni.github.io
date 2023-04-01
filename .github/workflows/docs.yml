@@ -1,0 +1,28 @@
+on:
+  push:
+    branches:
+      - main
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build MKDocs
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          mkdocs_version: latest
+          requirements: requirements.txt
+          configfile: mkdocs.yml
+      - name: Setup Pages
+        continue-on-error: true
+        id: pages
+        uses: actions/configure-pages@v2.1.3
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./public

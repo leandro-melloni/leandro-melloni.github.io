@@ -1,0 +1,48 @@
+site_name: Leandro Melloni Valle
+site_url: https://leandro-melloni.github.io/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.instant
+    - navigation.top
+    - search.suggest
+
+markdown_extensions:
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+
+plugins: 
+  - search:
+      lang:
+        - pt
+        - en
+    
+
+nav:
+  - Home: index.md
+  - Artigos:
+    - Artigos: blog/index.md
+  - About: 
+      - about.md
+

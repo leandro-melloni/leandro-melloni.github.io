@@ -1,0 +1,16 @@
+on:
+  push:
+    branches:
+      - develop
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build MKDocs
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          mkdocs_version: latest
+          requirements: requirements.txt
+          configfile: mkdocs.yml
