@@ -10,11 +10,11 @@ Mas como falar em __DevOps__ sem falar em `Cloud`, então iniciei meus estudos v
 
 ## Certificados
 
-???- tip "AWS"
+???- tip "![AWS](assets/images/aws.png){ width="30" } AWS"
     * AWS Cloud Practitioner
     * AWS Solutions Architect - Associate
 
-???- tip "Microsoft"
+???- tip "![Microsoft](assets/images/microsoft.png){ width="15" } Microsoft"
     * Microsoft Certified: Azure Fundamentals 
     * Exam 533: Implementing Microsoft Azure Infrastructure Solutions
     * MCPS: Microsoft Certified Professional
