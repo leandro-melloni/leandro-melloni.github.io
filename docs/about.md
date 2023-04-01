@@ -1,6 +1,7 @@
-# Leandro Melloni Valle
+# Leandro Melloni Valle ![Leandro Melloni](assets/images/profile.png){ align="right" width="100" }
 
 ## Quem sou eu?
+
 
 Sempre tive uma experência profissional voltada a infraestrutura, trabalhando com as melhores práticas voltada a soluções `Microsoft`. Sempre fui aquela pessoa voltada a realizar automações para trabalhos repetitivos, automatizando fluxos que eram consideradas como rotinas em meu expediente, utilizando scripts `Shell` e `Powershell`.
 
@@ -12,7 +13,7 @@ Mas como falar em __DevOps__ sem falar em `Cloud`, então iniciei meus estudos v
 
 ???- tip "![AWS](assets/images/aws.png){ width="30" } AWS"
     * AWS Cloud Practitioner
-    * AWS Solutions Architect - Associate
+    * AWS Solutions Architect - Associate [Credential]: https://www.youracclaim.com/badges/8a25ba1a-d73e-404b-8b25-aae06b7890c9?source=linked_in_profile
 
 ???- tip "![Microsoft](assets/images/microsoft.png){ width="15" } Microsoft"
     * Microsoft Certified: Azure Fundamentals 
