@@ -92,6 +92,8 @@ nav:
   - Home: index.md
   - Artigos:
     - Artigos: blog/index.md
+    - "Github Actions":
+      - "Entendendo um pouco sobre Workflows!": blog/github-actions/workflows.md
   - "Quem sou eu": about.md
 
 #extra_css:
