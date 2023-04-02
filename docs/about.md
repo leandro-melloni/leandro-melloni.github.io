@@ -1,4 +1,7 @@
 # Leandro Melloni Valle ![Leandro Melloni](assets/images/profile.png){ align="right" width="100" }
+2x AWS Certified | 3x Microsoft Certified | Software Engineering Specialist
+
+-------------------------
 
 ## Quem sou eu?
 
@@ -7,6 +10,8 @@ Sempre tive uma experência profissional voltada a infraestrutura, trabalhando c
 Em 2018 iniciei meus estudos voltado a metodologia __DevOps__, porém estes estudos me levaram a outras vertentes, como `container`, `kubernetes`, `openshift`, etc.
 
 Mas como falar em __DevOps__ sem falar em `Cloud`, então iniciei meus estudos voltados a `AWS` e `Azure`, e hoje estou focado em `AWS`, porém não deixo de lado a `Azure`, pois acredito que é importante conhecer as duas plataformas.
+
+Atualmente estou como __Especialista em Engenharia de Software__ no `Itaú Unibanco`, atuando nas melhores soluções de `Cloud` e `DevOps`. Utilizando algumas tecnologias, como `Github Actions`, `AWS`, `IAC Terraform e Cloudformation`, etc.
 
 ## Certificados
 
