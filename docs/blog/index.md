@@ -7,5 +7,6 @@
     * [ ] Casos de uso de workflows (`Em breve!`)
     * [ ] Importância de reuso de workflows (`Em breve!`)
     * [ ] Actions (`Em breve!`)
+    * [x] Copilot
 - [ ] AWS (`Em breve!`)
     * [ ] Aguarde maiores informações!
