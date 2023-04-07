@@ -18,7 +18,7 @@ Para utilizar o Copilot, além de já possuir uma conta na `Github`, é necessá
 
 Assim que a feature estiver ativa, basta usar sua ferramenta preferida de desenvolvimento, seja ela `VSCode`, `Microsoft Visual Studio`, entre outros, instalar a extensão e começar a escrever o código, o Copilot irá analisar o contexto e sugerir trechos de código que podem ser úteis para o desenvolvedor.
 
-Um exemplo: Através do `VSCode`, eu criei um arquivo `index.js` e escrevi o seguinte texto e o Copilot sugeriu o seguinte código: [CLique Aqui](https://raw.githubusercontent.com/leandro-melloni/leandro-melloni.github.io/main/docs/assets/examples/index.js)
+Um exemplo: Através do `VSCode`, eu criei um arquivo `index.js` e escrevi o seguinte texto e o Copilot sugeriu o seguinte código: [Clique Aqui](https://raw.githubusercontent.com/leandro-melloni/leandro-melloni.github.io/main/docs/assets/examples/index.js)
 
 ## Conclusão
 
