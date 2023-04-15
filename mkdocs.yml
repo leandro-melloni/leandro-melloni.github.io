@@ -94,6 +94,7 @@ nav:
     - Artigos: blog/index.md
     - "Github Actions":
       - "Entendendo um pouco sobre Workflows!": blog/github-actions/workflows.md
+      - "Casos de Uso de Workflows": blog/github-actions/use-case-workflows.md
       - "Copilot": blog/github-actions/copilot.md
   - "Quem sou eu": about.md
 
