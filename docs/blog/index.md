@@ -5,7 +5,7 @@
 - [ ] Github Actions
     * [x] Entendendo um pouco sobre workflows
     * [x] Casos de uso de workflows
-    * [ ] Importância de reuso de workflows (`Em breve!`)
+    * [x] Importância de reuso de workflows
     * [ ] Actions (`Em breve!`)
     * [x] Copilot
 - [ ] AWS (`Em breve!`)
